@@ -1,0 +1,35 @@
+.top-container {
+  background-color: yellow;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+
+}
+
+.middle-container {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  margin-left:100px;
+  margin-top: 100px;
+
+}
+
+.bottom-container {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 200px;
+}
+
+body {
+  margin: 0;
+  background-color: brown;
+}
+
+h1{
+  font-family: font-family: 'Merriweather', serif;
+}
